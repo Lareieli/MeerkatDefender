@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4b6a47907aecfb4ea5ae3acfb0d2d08
+timeCreated: 1447363041
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rufus: {fileID: 101686, guid: cba7fcb075975444782695e5394e98e9, type: 2}
+  - cape: {fileID: 114038, guid: cdc70b209816dbd44af022363bbbf998, type: 2}
+  - marshal: {fileID: 175716, guid: 73228dce5779898459bb36313c8df95f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
